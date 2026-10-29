@@ -70,59 +70,6 @@ const mohamed = {
   <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-7aa2f7?style=for-the-badge" />
 </p>
 
-## 🚀 Featured public projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 [rameem-kpi](https://github.com/mohamedyousief/rameem-kpi) · [live demo](https://rameem-kpi.vercel.app)
-KPI management system for an accounting department: committees, KPI assignment, charts, and automatic email reminders.
-<br/>`Next.js 14` `TypeScript` `Prisma` `Chart.js`
-
-</td>
-<td width="50%" valign="top">
-
-### 🛒 [ecommerce-api](https://github.com/mohamedyousief/ecommerce-api)
-E-commerce REST API built with Laravel, shipped with a Postman collection.
-<br/>`PHP` `Laravel` `REST` `Postman`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💬 [ChatApp](https://github.com/mohamedyousief/ChatApp)
-Chat application front end with animated UI.
-<br/>`React 19` `Vite` `Axios` `Framer Motion`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 [Dynamic-Portfilio](https://github.com/mohamedyousief/Dynamic-Portfilio)
-Dynamic personal portfolio website.
-<br/>`React` `Vite` `Framer Motion`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📝 [blogapp](https://github.com/mohamedyousief/blogapp)
-Blog application built with Laravel.
-<br/>`PHP` `Laravel`
-
-</td>
-<td width="50%" valign="top">
-
-### ✅ [ToDo-App](https://github.com/mohamedyousief/ToDo-App)
-To-do / task manager app.
-<br/>`React` `Vite`
-
-</td>
-</tr>
-</table>
-
 ## 🔒 Private projects (described only)
 
 > The code for these is private. Happy to talk about them or walk through them on a call.
